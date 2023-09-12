@@ -1,0 +1,23 @@
+mvc-model view Controles
+------------------------
+to connect env we use dotenv library
+it should be installed
+
+to run env it should be run on same port 
+
+environmental variable -env
+---------------------------
+-variable that contain application configuration that need in the time of running 
+-handling module is Process
+-it will convert static working app into dynamic(localhost running to server running)
+
+ dynamic aakanam ennundengil env use cheyyanam
+ using this static can be connectred as dynamic
+
+ dotenv is a library
+ 
+ multer 
+ ------
+ library to handle file type data in server
+ (same for all  only type varies)
+ 
