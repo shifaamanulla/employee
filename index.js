@@ -18,7 +18,7 @@ server.use(router)
 server.use('/uploads',express.static('./uploads'))
 
 //process is used to run env in the same port
-const port=4000|| process.env.port
+const port=4500|| process.env.port
 server.listen(port,()=>{
     console.log(`--------------EMS server started At Port Number ${port}------`);
 })
